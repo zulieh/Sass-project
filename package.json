@@ -1,0 +1,14 @@
+{
+  "name": "photo",
+  "version": "1.0.0",
+  "description": "landing page for photo",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss CSS/style.css -w"
+  },
+  "author": "Zulieh",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.13.1"
+  }
+}
